@@ -22,7 +22,7 @@ A search bar filters recipes by title.
 
 🚀 Getting Started
 1.Clone this repository:
-git clone https://github.com/your-username/recipe-book.git
+git clone https://github.com/keerthana071004/Recipe-Book
 2.Open index.html in your browser.
 No additional setup is needed!
 
